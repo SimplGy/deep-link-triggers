@@ -1,0 +1,1 @@
+{"name":"Deep-link-triggers","tagline":"Just a way to test out deep linking","body":"* [waitress://place/42](waitress://place/42)\r\n* [waitress://place/17](waitress://place/17)\r\n* [waitress://tray](waitress://tray)","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
